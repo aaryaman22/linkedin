@@ -1,4 +1,4 @@
-package com.codingshuttle.linkedin.connections_service.auth;
+package com.project.linkedin.connections_service.auth;
 
 public class UserContextHolder {
 
